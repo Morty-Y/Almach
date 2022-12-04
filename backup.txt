@@ -1,0 +1,105 @@
+/* 	printf("[Check]\n");
+	if(si.latitude == siData.latitude)
+		printf("1: OK\n");
+	else
+		printf("1: BAD\n");
+
+	if(si.longitude == siData.longitude)
+		printf("2: OK\n");
+	else
+		printf("2: BAD\n");
+
+	if(si.pressure == siData.pressure)
+		printf("3: OK\n");
+	else
+		printf("3: BAD\n");
+	
+	if(si.temperature == siData.temperature)
+		printf("4: OK\n");
+	else
+		printf("4: BAD\n");
+	
+	if(si.humidity == siData.humidity)
+		printf("5: OK\n");
+	else
+		printf("5: BAD\n");
+	
+	if(si.height == siData.height)
+		printf("6: OK\n");
+	else
+		printf("6: BAD\n");
+
+	if(si.wavelength == siData.wavelength)
+		printf("7: OK\n");
+	else
+		printf("7: BAD\n");
+
+	if(si.eoparameter.xp == siData.eoparameter.xp)
+		printf("8: OK\n");
+	else
+		printf("8: BAD\n");
+	
+	if(si.eoparameter.yp == siData.eoparameter.yp)
+		printf("9: OK\n");
+	else
+		printf("9: BAD\n");
+	
+	if(si.dut1 == siData.dut1)
+		printf("10: OK\n");
+	else
+		printf("10: BAD\n");
+	
+	if(track.alpha == sdData.alpha)
+		printf("1: OK\n");
+	else
+		printf("1: BAD\n");
+	printf("t_a:%.6f\n", track.alpha);
+	printf("t_a:%.6f\n", sdData.alpha);
+
+	if(track.delta == sdData.delta)
+		printf("2: OK\n");
+	else
+		printf("2: BAD\n");
+	printf("t_a:%.6f\n", track.delta);
+	printf("t_a:%.6f\n", sdData.delta);
+	
+	if(track.mu_alpha == sdData.mu_alpha)
+		printf("3: OK\n");
+	else
+		printf("3: BAD\n");
+	printf("t_a:%.6f\n", track.mu_alpha);
+	printf("t_a:%.6f\n", sdData.mu_alpha);
+	
+	if(track.mu_delta == sdData.mu_delta)
+		printf("4: OK\n");
+	else
+		printf("4: BAD\n");
+	
+	if(track.parallax == sdData.parallax)
+		printf("5: OK\n");
+	else
+		printf("5: BAD\n");
+
+	if(track.radial_vel == sdData.radial_vel)
+		printf("6: OK\n");
+	else
+		printf("6: BAD\n"); */
+
+/* 	utc_TypeDef current, past;
+	position_Typedef position;
+	float time_cmp;
+
+	utc_Update(&past);
+	utc_Report(past); */
+	//catalog_Update();
+
+	
+/* 	while (1)
+	{
+		utc_Update(&current);
+		time_cmp = (current.tv.tv_sec - past.tv.tv_sec) * 1000000 + (current.tv.tv_usec - past.tv.tv_usec)
+		if(time_cmp >= 20000)
+		{
+			catalog_Update(current, );
+		}
+	} */

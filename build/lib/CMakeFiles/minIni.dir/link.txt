@@ -1,0 +1,2 @@
+/usr/bin/arm-linux-gnueabihf-ar qc /home/pi/Dev/Almach/lib/libminIni.a CMakeFiles/minIni.dir/minIni/src/minIni.c.o
+/usr/bin/arm-linux-gnueabihf-ranlib /home/pi/Dev/Almach/lib/libminIni.a

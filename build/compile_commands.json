@@ -1,0 +1,1292 @@
+[
+{
+  "directory": "/home/pi/Dev/Almach/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc  -I/home/pi/Dev/Almach/inc -I/home/pi/Dev/Almach/lib/SOFA/src -I/home/pi/Dev/Almach/lib/minIni/src -g -o CMakeFiles/almach.dir/src/main.c.o -c /home/pi/Dev/Almach/src/main.c",
+  "file": "/home/pi/Dev/Almach/src/main.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc  -I/home/pi/Dev/Almach/inc -I/home/pi/Dev/Almach/lib/SOFA/src -I/home/pi/Dev/Almach/lib/minIni/src -g -o CMakeFiles/almach.dir/src/mode/calibrate.c.o -c /home/pi/Dev/Almach/src/mode/calibrate.c",
+  "file": "/home/pi/Dev/Almach/src/mode/calibrate.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc  -I/home/pi/Dev/Almach/inc -I/home/pi/Dev/Almach/lib/SOFA/src -I/home/pi/Dev/Almach/lib/minIni/src -g -o CMakeFiles/almach.dir/src/mode/manual.c.o -c /home/pi/Dev/Almach/src/mode/manual.c",
+  "file": "/home/pi/Dev/Almach/src/mode/manual.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc  -I/home/pi/Dev/Almach/inc -I/home/pi/Dev/Almach/lib/SOFA/src -I/home/pi/Dev/Almach/lib/minIni/src -g -o CMakeFiles/almach.dir/src/mode/track.c.o -c /home/pi/Dev/Almach/src/mode/track.c",
+  "file": "/home/pi/Dev/Almach/src/mode/track.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc  -I/home/pi/Dev/Almach/inc -I/home/pi/Dev/Almach/lib/SOFA/src -I/home/pi/Dev/Almach/lib/minIni/src -g -o CMakeFiles/almach.dir/src/function/catalog.c.o -c /home/pi/Dev/Almach/src/function/catalog.c",
+  "file": "/home/pi/Dev/Almach/src/function/catalog.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc  -I/home/pi/Dev/Almach/inc -I/home/pi/Dev/Almach/lib/SOFA/src -I/home/pi/Dev/Almach/lib/minIni/src -g -o CMakeFiles/almach.dir/src/function/config.c.o -c /home/pi/Dev/Almach/src/function/config.c",
+  "file": "/home/pi/Dev/Almach/src/function/config.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc  -I/home/pi/Dev/Almach/inc -I/home/pi/Dev/Almach/lib/SOFA/src -I/home/pi/Dev/Almach/lib/minIni/src -g -o CMakeFiles/almach.dir/src/function/kb.c.o -c /home/pi/Dev/Almach/src/function/kb.c",
+  "file": "/home/pi/Dev/Almach/src/function/kb.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc  -I/home/pi/Dev/Almach/inc -I/home/pi/Dev/Almach/lib/SOFA/src -I/home/pi/Dev/Almach/lib/minIni/src -g -o CMakeFiles/almach.dir/src/function/pid.c.o -c /home/pi/Dev/Almach/src/function/pid.c",
+  "file": "/home/pi/Dev/Almach/src/function/pid.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc  -I/home/pi/Dev/Almach/inc -I/home/pi/Dev/Almach/lib/SOFA/src -I/home/pi/Dev/Almach/lib/minIni/src -g -o CMakeFiles/almach.dir/src/function/uart.c.o -c /home/pi/Dev/Almach/src/function/uart.c",
+  "file": "/home/pi/Dev/Almach/src/function/uart.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc  -I/home/pi/Dev/Almach/inc -I/home/pi/Dev/Almach/lib/SOFA/src -I/home/pi/Dev/Almach/lib/minIni/src -g -o CMakeFiles/almach.dir/src/function/utc.c.o -c /home/pi/Dev/Almach/src/function/utc.c",
+  "file": "/home/pi/Dev/Almach/src/function/utc.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/a2af.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/a2af.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/a2af.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/a2tf.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/a2tf.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/a2tf.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ab.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ab.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ab.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ae2hd.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ae2hd.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ae2hd.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/af2a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/af2a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/af2a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/anp.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/anp.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/anp.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/anpm.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/anpm.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/anpm.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/apcg.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/apcg.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/apcg.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/apcg13.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/apcg13.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/apcg13.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/apci.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/apci.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/apci.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/apci13.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/apci13.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/apci13.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/apco.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/apco.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/apco.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/apco13.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/apco13.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/apco13.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/apcs.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/apcs.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/apcs.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/apcs13.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/apcs13.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/apcs13.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/aper.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/aper.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/aper.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/aper13.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/aper13.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/aper13.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/apio.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/apio.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/apio.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/apio13.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/apio13.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/apio13.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/atcc13.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/atcc13.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/atcc13.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/atccq.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/atccq.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/atccq.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/atci13.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/atci13.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/atci13.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/atciq.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/atciq.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/atciq.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/atciqn.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/atciqn.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/atciqn.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/atciqz.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/atciqz.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/atciqz.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/atco13.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/atco13.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/atco13.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/atic13.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/atic13.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/atic13.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/aticq.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/aticq.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/aticq.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/aticqn.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/aticqn.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/aticqn.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/atio13.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/atio13.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/atio13.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/atioq.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/atioq.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/atioq.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/atoc13.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/atoc13.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/atoc13.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/atoi13.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/atoi13.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/atoi13.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/atoiq.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/atoiq.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/atoiq.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/bi00.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/bi00.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/bi00.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/bp00.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/bp00.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/bp00.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/bp06.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/bp06.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/bp06.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/bpn2xy.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/bpn2xy.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/bpn2xy.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/c2i00a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/c2i00a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/c2i00a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/c2i00b.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/c2i00b.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/c2i00b.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/c2i06a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/c2i06a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/c2i06a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/c2ibpn.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/c2ibpn.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/c2ibpn.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/c2ixy.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/c2ixy.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/c2ixy.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/c2ixys.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/c2ixys.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/c2ixys.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/c2s.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/c2s.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/c2s.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/c2t00a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/c2t00a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/c2t00a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/c2t00b.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/c2t00b.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/c2t00b.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/c2t06a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/c2t06a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/c2t06a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/c2tcio.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/c2tcio.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/c2tcio.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/c2teqx.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/c2teqx.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/c2teqx.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/c2tpe.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/c2tpe.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/c2tpe.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/c2txy.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/c2txy.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/c2txy.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/cal2jd.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/cal2jd.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/cal2jd.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/cp.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/cp.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/cp.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/cpv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/cpv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/cpv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/cr.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/cr.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/cr.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/d2dtf.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/d2dtf.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/d2dtf.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/d2tf.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/d2tf.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/d2tf.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/dat.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/dat.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/dat.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/dtdb.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/dtdb.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/dtdb.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/dtf2d.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/dtf2d.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/dtf2d.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/eceq06.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/eceq06.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/eceq06.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ecm06.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ecm06.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ecm06.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ee00.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ee00.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ee00.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ee00a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ee00a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ee00a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ee00b.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ee00b.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ee00b.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ee06a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ee06a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ee06a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/eect00.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/eect00.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/eect00.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/eform.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/eform.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/eform.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/eo06a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/eo06a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/eo06a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/eors.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/eors.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/eors.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/epb.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/epb.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/epb.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/epb2jd.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/epb2jd.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/epb2jd.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/epj.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/epj.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/epj.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/epj2jd.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/epj2jd.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/epj2jd.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/epv00.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/epv00.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/epv00.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/eqec06.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/eqec06.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/eqec06.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/eqeq94.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/eqeq94.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/eqeq94.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/era00.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/era00.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/era00.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fad03.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fad03.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fad03.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fae03.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fae03.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fae03.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/faf03.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/faf03.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/faf03.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/faju03.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/faju03.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/faju03.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fal03.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fal03.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fal03.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/falp03.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/falp03.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/falp03.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fama03.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fama03.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fama03.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fame03.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fame03.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fame03.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fane03.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fane03.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fane03.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/faom03.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/faom03.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/faom03.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fapa03.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fapa03.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fapa03.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fasa03.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fasa03.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fasa03.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/faur03.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/faur03.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/faur03.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fave03.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fave03.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fave03.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fk425.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fk425.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fk425.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fk45z.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fk45z.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fk45z.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fk524.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fk524.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fk524.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fk52h.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fk52h.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fk52h.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fk54z.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fk54z.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fk54z.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fk5hip.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fk5hip.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fk5hip.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fk5hz.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fk5hz.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fk5hz.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fw2m.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fw2m.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fw2m.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/fw2xy.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/fw2xy.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/fw2xy.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/g2icrs.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/g2icrs.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/g2icrs.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/gc2gd.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/gc2gd.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/gc2gd.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/gc2gde.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/gc2gde.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/gc2gde.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/gd2gc.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/gd2gc.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/gd2gc.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/gd2gce.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/gd2gce.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/gd2gce.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/gmst00.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/gmst00.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/gmst00.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/gmst06.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/gmst06.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/gmst06.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/gmst82.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/gmst82.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/gmst82.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/gst00a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/gst00a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/gst00a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/gst00b.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/gst00b.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/gst00b.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/gst06.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/gst06.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/gst06.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/gst06a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/gst06a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/gst06a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/gst94.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/gst94.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/gst94.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/h2fk5.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/h2fk5.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/h2fk5.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/hd2ae.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/hd2ae.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/hd2ae.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/hd2pa.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/hd2pa.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/hd2pa.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/hfk5z.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/hfk5z.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/hfk5z.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/icrs2g.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/icrs2g.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/icrs2g.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ir.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ir.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ir.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/jd2cal.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/jd2cal.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/jd2cal.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/jdcalf.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/jdcalf.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/jdcalf.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ld.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ld.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ld.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ldn.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ldn.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ldn.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ldsun.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ldsun.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ldsun.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/lteceq.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/lteceq.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/lteceq.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ltecm.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ltecm.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ltecm.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/lteqec.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/lteqec.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/lteqec.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ltp.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ltp.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ltp.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ltpb.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ltpb.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ltpb.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ltpecl.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ltpecl.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ltpecl.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ltpequ.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ltpequ.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ltpequ.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/moon98.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/moon98.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/moon98.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/num00a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/num00a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/num00a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/num00b.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/num00b.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/num00b.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/num06a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/num06a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/num06a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/numat.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/numat.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/numat.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/nut00a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/nut00a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/nut00a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/nut00b.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/nut00b.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/nut00b.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/nut06a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/nut06a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/nut06a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/nut80.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/nut80.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/nut80.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/nutm80.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/nutm80.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/nutm80.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/obl06.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/obl06.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/obl06.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/obl80.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/obl80.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/obl80.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/p06e.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/p06e.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/p06e.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/p2pv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/p2pv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/p2pv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/p2s.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/p2s.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/p2s.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pap.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pap.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pap.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pas.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pas.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pas.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pb06.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pb06.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pb06.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pdp.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pdp.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pdp.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pfw06.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pfw06.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pfw06.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/plan94.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/plan94.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/plan94.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pm.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pm.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pm.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pmat00.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pmat00.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pmat00.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pmat06.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pmat06.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pmat06.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pmat76.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pmat76.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pmat76.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pmp.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pmp.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pmp.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pmpx.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pmpx.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pmpx.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pmsafe.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pmsafe.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pmsafe.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pn.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pn.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pn.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pn00.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pn00.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pn00.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pn00a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pn00a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pn00a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pn00b.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pn00b.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pn00b.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pn06.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pn06.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pn06.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pn06a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pn06a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pn06a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pnm00a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pnm00a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pnm00a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pnm00b.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pnm00b.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pnm00b.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pnm06a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pnm06a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pnm06a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pnm80.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pnm80.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pnm80.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pom00.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pom00.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pom00.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ppp.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ppp.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ppp.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ppsp.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ppsp.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ppsp.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pr00.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pr00.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pr00.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/prec76.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/prec76.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/prec76.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pv2p.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pv2p.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pv2p.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pv2s.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pv2s.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pv2s.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pvdpv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pvdpv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pvdpv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pvm.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pvm.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pvm.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pvmpv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pvmpv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pvmpv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pvppv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pvppv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pvppv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pvstar.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pvstar.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pvstar.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pvtob.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pvtob.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pvtob.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pvu.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pvu.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pvu.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pvup.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pvup.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pvup.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pvxpv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pvxpv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pvxpv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/pxp.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/pxp.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/pxp.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/refco.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/refco.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/refco.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/rm2v.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/rm2v.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/rm2v.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/rv2m.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/rv2m.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/rv2m.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/rx.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/rx.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/rx.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/rxp.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/rxp.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/rxp.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/rxpv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/rxpv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/rxpv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/rxr.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/rxr.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/rxr.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ry.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ry.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ry.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/rz.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/rz.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/rz.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/s00.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/s00.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/s00.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/s00a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/s00a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/s00a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/s00b.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/s00b.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/s00b.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/s06.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/s06.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/s06.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/s06a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/s06a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/s06a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/s2c.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/s2c.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/s2c.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/s2p.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/s2p.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/s2p.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/s2pv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/s2pv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/s2pv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/s2xpv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/s2xpv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/s2xpv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/sepp.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/sepp.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/sepp.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/seps.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/seps.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/seps.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/sp00.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/sp00.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/sp00.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/starpm.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/starpm.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/starpm.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/starpv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/starpv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/starpv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/sxp.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/sxp.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/sxp.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/sxpv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/sxpv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/sxpv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/taitt.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/taitt.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/taitt.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/taiut1.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/taiut1.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/taiut1.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/taiutc.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/taiutc.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/taiutc.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tcbtdb.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tcbtdb.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tcbtdb.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tcgtt.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tcgtt.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tcgtt.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tdbtcb.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tdbtcb.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tdbtcb.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tdbtt.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tdbtt.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tdbtt.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tf2a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tf2a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tf2a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tf2d.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tf2d.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tf2d.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tpors.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tpors.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tpors.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tporv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tporv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tporv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tpsts.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tpsts.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tpsts.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tpstv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tpstv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tpstv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tpxes.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tpxes.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tpxes.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tpxev.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tpxev.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tpxev.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tr.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tr.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tr.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/trxp.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/trxp.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/trxp.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/trxpv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/trxpv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/trxpv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tttai.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tttai.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tttai.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tttcg.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tttcg.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tttcg.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/tttdb.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/tttdb.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/tttdb.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ttut1.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ttut1.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ttut1.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ut1tai.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ut1tai.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ut1tai.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ut1tt.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ut1tt.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ut1tt.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/ut1utc.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/ut1utc.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/ut1utc.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/utctai.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/utctai.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/utctai.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/utcut1.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/utcut1.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/utcut1.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/xy06.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/xy06.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/xy06.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/xys00a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/xys00a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/xys00a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/xys00b.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/xys00b.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/xys00b.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/xys06a.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/xys06a.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/xys06a.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/zp.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/zp.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/zp.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/zpv.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/zpv.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/zpv.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/SOFA.dir/SOFA/src/zr.c.o -c /home/pi/Dev/Almach/lib/SOFA/src/zr.c",
+  "file": "/home/pi/Dev/Almach/lib/SOFA/src/zr.c"
+},
+{
+  "directory": "/home/pi/Dev/Almach/build/lib",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/minIni.dir/minIni/src/minIni.c.o -c /home/pi/Dev/Almach/lib/minIni/src/minIni.c",
+  "file": "/home/pi/Dev/Almach/lib/minIni/src/minIni.c"
+}
+]

@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "catalog_cal.h": "c",
+        "stdio.h": "c",
+        "termios.h": "c",
+        "fcntl.h": "c",
+        "unistd.h": "c",
+        "stdlib.h": "c",
+        "kb.h": "c",
+        "cstdint": "c",
+        "wiringpispi.h": "c",
+        "catalog.h": "c",
+        "utc.h": "c",
+        "stdint.h": "c",
+        "time.h": "c",
+        "main.h": "c",
+        "string.h": "c",
+        "typeinfo": "c",
+        "mode.h": "c",
+        "uart.h": "c",
+        "pid.h": "c"
+    },
+    "cmake.configureOnOpen": false,
+    "C_Cpp.errorSquiggles": "Disabled"
+}

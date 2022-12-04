@@ -1,0 +1,7 @@
+/home/pi/Dev/Almach/build/CMakeFiles/almach.dir
+/home/pi/Dev/Almach/build/CMakeFiles/edit_cache.dir
+/home/pi/Dev/Almach/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Dev/Almach/build/lib/CMakeFiles/SOFA.dir
+/home/pi/Dev/Almach/build/lib/CMakeFiles/minIni.dir
+/home/pi/Dev/Almach/build/lib/CMakeFiles/edit_cache.dir
+/home/pi/Dev/Almach/build/lib/CMakeFiles/rebuild_cache.dir
